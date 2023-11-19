@@ -6,19 +6,18 @@
 
 ### Hi there 
 
-I'm Mauricio, I'm a software engineer 💻 who is passionate about software architecture and mobile technologies.
+I'm Mauricio, I'm a senior software engineer 💻 who is passionate about software architecture and backend development.
 
-- 🔭 I’m currently working on Android Apps 📱 and backend technologies
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working as a senior software engineer at Nuvemshop ⛅
+- 🌱 I’m currently learning Golang
 - 💬 Ask me about: tech, games, life...
 
 ### Main Skills
 
-- [x] PHP | Symfony | Laravel
 - [x] Java | Spring | Quarkus
-- [x] NodeJS | ReactJS
-- [x] TDD
-- [x] HTML | CSS
+- [x] NodeJS | NestJS | ReactJS | Angular
+- [x] PHP | Symfony | Laravel
+- [x] TDD, SOLID, Clean Code, Clean Architecture
 - [x] Postgres | SQL Server | MySQL | MongoDB
 
 ---
