@@ -8,7 +8,7 @@
 
 I'm Mauricio, I'm a senior software engineer 💻 who is passionate about software architecture and backend development.
 
-- 🔭 I’m currently working as a senior software engineer at IAG Group ⛅
+- 🔭 I’m currently working as a senior software engineer at IAG Group 🛫
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about: tech, games, life...
 
